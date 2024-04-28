@@ -8,6 +8,7 @@ const arrAfdelingen = [
 
             Samen met hun leiding groeien ze op tot echte helden en maken ze veel nieuwe vrienden. Ze gaan hier ook op hun eerste daguitstap zonder ouders (meestal moeilijker voor de mama en papa dan voor hun zelf ;-) ) en durven misschien ook al op kamp te gaan. 
         `,
+		url_afbeelding: "pinkel.png",
 	},
 	{
 		id: 2,
@@ -18,6 +19,7 @@ const arrAfdelingen = [
 
             Samen met hun leiding duiken ze onder in een fantasiewereld van bosberen en chocoprinsen, spelen ze poppenkast of verkleden ze zich in een heks. Ze trekken al eens op een tocht vol spelletjes, plezante liedjes en gekke opdrachten. 
         `,
+		url_afbeelding: "speelclub.png",
 	},
 	{
 		id: 3,
@@ -26,6 +28,7 @@ const arrAfdelingen = [
 		omschrijving: `
             Deze stoere jongens en meisjes worden bij de rakwileiding verwacht om samen met hen het aapje uit te hangen, of om de gekste creaturen in klei te maken. Ze ravotten zich doorgaans te pletter, trekken er al eens op uit met de fiets en lopen zich de ziel uit hun lijf bij een supergroot stratego-bosspel. In het geniep lachen de meisjes met de jongens, of vertellen ze al eens een vuile mop.  
         `,
+		url_afbeelding: "rakwi.png",
 	},
 	{
 		id: 4,
@@ -34,6 +37,7 @@ const arrAfdelingen = [
 		omschrijving: `
             De Tito’s maken al eens een daguitstap met de fiets of met de trein om in één of andere stad een groot zoekspel te doen. Pleinspelen vinden ze ook best leuk, vooral wanneer er wat tactiek aan te pas komt. Soms schminken ze zich om ter gekst, en in de zomer kappen ze hun leiding nat. 
         `,
+		url_afbeelding: "tito.png",
 	},
 	{
 		id: 5,
@@ -42,6 +46,7 @@ const arrAfdelingen = [
 		omschrijving: `
             De Keti’s trekken op avontuur, doen een tweedaagse tocht met de rugzak, of bouwen zelf een vlot om er dan een vijver mee af te varen. Ze beulen zich ook wel eens af in een zelfverzonnen sport, of zetten hun lokaal volledig op z’n kop. Wie weet maken ze wel een film waarin ze zelf schitteren als acteur.  
         `,
+		url_afbeelding: "keti.png",
 	},
 	{
 		id: 6,
@@ -50,5 +55,6 @@ const arrAfdelingen = [
 		omschrijving: `
             De Aspi’s nemen het er goed van en wisselen hevige spelen af met stevige babbels in het gezelligste hoekje van het lokaal. Op gezette tijden springen ze de leiding van een jongere afdeling bij. Zo proeven ze wat het is om leiding te zijn, want dat is voor hen zeer nabije toekomst. Samen met hun leiding riskeren ze zich aan het touwenparcours of nemen ze deel aan een workshop. Op grote evenementen kom je heel wat aspi-ploegen tegen. Zelf organiseren ze een heuse aspi-fuif.   
         `,
+		url_afbeelding: "aspi.png",
 	},
 ];
